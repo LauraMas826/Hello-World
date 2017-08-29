@@ -1,2 +1,2 @@
-# Hello-World
+# Hello-Kitty
 Following the directions in the guide...
